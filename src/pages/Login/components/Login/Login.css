@@ -1,0 +1,27 @@
+.formlogin {
+  height: 270px;
+  width: 285px;
+  border-radius: 5px;
+  background-color: #7159c183;
+  position: absolute;
+  right: 30px;
+  bottom: 18%;
+}
+
+.text-right {
+  bottom: 25px;
+  right: 20px;
+  position: absolute;
+}
+
+.text-info {
+  color: #ffffff !important;
+}
+
+.img-emp {
+  width: 160px;
+}
+
+.centerlogin {
+  padding: 15px;
+}
